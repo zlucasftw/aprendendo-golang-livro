@@ -1,4 +1,4 @@
-package aprendendo_go
+package main
 
 import "fmt"
 
